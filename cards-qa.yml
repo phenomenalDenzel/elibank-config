@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to EazyBank cards with related quality assurance APIs "
   contactDetails:
     name: "Chuck Norris - QA Lead"
     email: "chuck@eazybank.com"
